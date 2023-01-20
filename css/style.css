@@ -363,8 +363,8 @@ h3.my-proffession
     width: 80px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
-    right: 5px;
-    bottom: 30px;
+    right: -5px;
+    bottom: 125px;
 }
 
 .home-img::before
@@ -381,7 +381,7 @@ h3.my-proffession
 
 .home .home-img img
 {
-    height: 400px;
+    height: 423px;
     margin-right: 50px;
     border-radius: 5px;
 }
