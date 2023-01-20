@@ -642,7 +642,7 @@ h3.my-proffession
 {
     flex: 0 0 33.33%;
     max-width: 33.33%;
-    margin-bottom:30px;
+    margin-bottom:30px; 
 }
 
 .portfolio .portfolio-item-inner
@@ -655,6 +655,7 @@ h3.my-proffession
 
 .portfolio .portfolio-item-inner .portfolio-img img
 {
+    height:201px;
     width: 100%;
     display:block;
 
